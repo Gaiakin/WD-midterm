@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>document</title>
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <h1>BELUGA</h1>
+                </div>
+                <nav class="nav">
+                    <ul>
+                        <li><a href="#">Find us</a></li>
+                        <li><a href="#">Hours</a></li>
+                        <li><a href="#">Call Us</a></li>
+                    </ul>
+                </nav>>
+            </div>>
+        </header>
+<main>
+    <section class="hero">
+        <div class="container">
+            <h2>Organic cats</h2>
+            <p>omg cat omg cat omg cat</p>
+        </div>
+    </section>
+</main>
+<footer class="footer">
+    <div class="container">
+        <p>omg wala pa me sa kalahati sir</p>
+    </div>
+</footer>
